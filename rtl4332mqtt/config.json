@@ -7,14 +7,14 @@
   "startup": "services",
   "map": ["config:rw", "ssl"],
   "usb": true,
-  "host_network": "False",
+  "host_network": "false",
   "arch": [
     "aarch64",
     "amd64",
     "armv7",
     "i386"
   ],
-  "init": "False",
+  "init": "false",
   "options":
   {
     "mqtt_host": "hassio.local",
