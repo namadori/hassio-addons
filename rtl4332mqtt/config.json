@@ -14,7 +14,7 @@
     "armv7",
     "i386"
   ],
-  "init": "false",
+  "init": false,
   "options":
   {
     "mqtt_host": "hassio.local",
